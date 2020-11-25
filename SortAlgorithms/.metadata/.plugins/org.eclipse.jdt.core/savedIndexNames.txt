@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+/Users/delphicmind/Desktop/SortAlgorithms/.metadata/.plugins/org.eclipse.jdt.core
+3402609489.index
+4125831874.index
+1271342938.index
+2724955320.index
+3655942989.index
+286756018.index
+4247306810.index
+2316651602.index
+4195126170.index
+3550463056.index
+3632026340.index
+2011621603.index
+1194662962.index
+3915776622.index
+126977511.index
+2333740798.index
+1875292464.index

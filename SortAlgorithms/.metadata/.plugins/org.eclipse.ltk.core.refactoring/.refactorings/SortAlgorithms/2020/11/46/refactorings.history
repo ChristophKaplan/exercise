@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;myArray&apos; in &apos;SortAlgorithms.Main&apos; to &apos;arrayToSort&apos;&#x0A;- Original project: &apos;SortAlgorithms&apos;&#x0A;- Original element: &apos;SortAlgorithms.Main.myArray&apos;&#x0A;- Renamed element: &apos;SortAlgorithms.Main.arrayToSort&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;myArray&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;SortAlgorithms{Main.java[Main^myArray" name="arrayToSort" references="true" setter="false" stamp="1605014832893" textual="false" version="1.0"/>
+</session>
